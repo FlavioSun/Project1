@@ -1,7 +1,7 @@
 Name: Model
 Type: ModelCategoryFolder
 Children:
-- Name: 
+- Name: xxx
   Type: AnalogItemType
   DataType: Float
   Value: 0.0
