@@ -1,7 +1,7 @@
 Name: Model
 Type: ModelCategoryFolder
 Children:
-- Name: AnalogVariable2
+- Name: Analogtest
   Type: AnalogItemType
   DataType: Float
   Value: 0.0
