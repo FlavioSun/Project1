@@ -4,7 +4,7 @@ Children:
 - Name: Variable1
   Type: BaseDataVariableType
   DataType: Int32
-  Value: 0
+  Value: 30
   Children:
   - Name: ns=0;EURange
     Type: RangeType
