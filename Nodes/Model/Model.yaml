@@ -47,7 +47,4 @@ Children:
   Type: BaseDataVariableType
   DataType: Int32
   Value: 10
-- Name: Variable37
-  Type: BaseDataVariableType
-  DataType: Int32
-  Value: 0
+
