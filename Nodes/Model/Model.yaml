@@ -70,3 +70,12 @@ Children:
           Value: 0
     - Name: Groups
       Type: BaseObjectType
+  - Name: AuditSigning Signature2
+    Id: g=720d36d49dc6625a59c51d7567e7760c
+    Type: AuditInfo
+    ReferenceType: NonHierarchicalOwning
+    Children:
+    - Name: Users2
+      Type: BaseObjectType
+    - Name: Groups
+      Type: BaseObjectType
