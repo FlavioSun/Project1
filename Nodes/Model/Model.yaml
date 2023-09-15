@@ -54,5 +54,19 @@ Children:
     Children:
     - Name: Users
       Type: BaseObjectType
+      Children:
+      - Name: User1
+        Type: NodePointer
+        DataType: NodeId
+        Value: {"IdType":0,"Id":0,"Namespace":-1}
+        Children:
+        - Name: Kind
+          Type: PropertyType
+          DataType: NodeId
+          Value: {"Id":14,"Namespace":1}
+        - Name: NodeClass
+          Type: PropertyType
+          DataType: NodePointerNodeClass
+          Value: 0
     - Name: Groups
       Type: BaseObjectType
