@@ -30,3 +30,8 @@ Children:
       DataType: Double
       ReferenceType: HasProperty
       Value: 0.0
+      - Name: High
+      Type: BaseVariableType
+      DataType: Double
+      ReferenceType: HasProperty
+      Value: 0.0
