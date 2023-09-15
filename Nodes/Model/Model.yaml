@@ -1,17 +1,2 @@
 Name: Model
 Type: ModelCategoryFolder
-Children:
-- Name: Variable1
-  Type: BaseDataVariableType
-  DataType: Int32
-  Value: 20
-  Children:
-  - Name: NodePointer1
-    Type: NodePointer
-    DataType: NodeId
-    Value: {"IdType":0,"Id":0,"Namespace":-1}
-    Children:
-    - Name: Kind
-      Type: PropertyType
-      DataType: NodeId
-      Value: {"IdType":0,"Id":0,"Namespace":-1}
