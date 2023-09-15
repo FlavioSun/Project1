@@ -39,7 +39,7 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":0,"Id":0,"Namespace":-1}
-- Name: Variable1
+- Name: Variable2
   Type: BaseDataVariableType
   DataType: Int32
   Value: 0
