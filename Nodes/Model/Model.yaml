@@ -55,7 +55,7 @@ Children:
     - Name: Users
       Type: BaseObjectType
       Children:
-      - Name: User1
+      - Name: Flavio
         Type: NodePointer
         DataType: NodeId
         Value: {"IdType":0,"Id":0,"Namespace":-1}
@@ -71,7 +71,6 @@ Children:
     - Name: Groups
       Type: BaseObjectType
   - Name: AuditSigning Signature2
-    Id: g=720d36d49dc6625a59c51d7567e7760c
     Type: AuditInfo
     ReferenceType: NonHierarchicalOwning
     Children:
