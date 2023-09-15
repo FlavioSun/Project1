@@ -46,4 +46,4 @@ Children:
 - Name: Variable35
   Type: BaseDataVariableType
   DataType: Int32
-  Value: 0
+  Value: 10
