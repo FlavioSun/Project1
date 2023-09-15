@@ -48,11 +48,11 @@ Children:
   DataType: Int32
   Value: 10
   Children:
-  - Name: AuditSigning Signature
+  - Name: AuditSigning Signature2
     Type: AuditInfo
     ReferenceType: NonHierarchicalOwning
     Children:
-    - Name: Users
+    - Name: Users2
       Type: BaseObjectType
     - Name: Groups
       Type: BaseObjectType
