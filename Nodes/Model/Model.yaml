@@ -30,15 +30,6 @@ Children:
       DataType: Double
       ReferenceType: HasProperty
       Value: 0.0
-  - Name: NodePointer1
-    Type: NodePointer
-    DataType: NodeId
-    Value: {"IdType":0,"Id":0,"Namespace":-1}
-    Children:
-    - Name: Kind
-      Type: PropertyType
-      DataType: NodeId
-      Value: {"IdType":0,"Id":0,"Namespace":-1}
 - Name: Variable2
   Type: BaseDataVariableType
   DataType: Int32
@@ -57,6 +48,7 @@ Children:
     - Name: Groups
       Type: BaseObjectType
   - Name: AuditSigning Signature2
+    Id: g=7c214ea8d8576f56a9b3ecad47c45a0a
     Type: AuditInfo
     ReferenceType: NonHierarchicalOwning
     Children:
