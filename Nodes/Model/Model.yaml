@@ -30,3 +30,32 @@ Children:
       DataType: Double
       ReferenceType: HasProperty
       Value: 0.0
+- Name: xxx
+  Type: AnalogItemType
+  DataType: Float
+  Value: 0.0
+  Children:
+  - Name: EURange
+    Type: RangeType
+    DataType: EURange
+    Value: 
+     {
+      "TypeId": {
+       "Id": 884
+      },
+      "Body": {
+       "low": 0.0,
+       "high": 0.0
+      }
+     }
+    Children:
+    - Name: Low
+      Type: BaseVariableType
+      DataType: Double
+      ReferenceType: HasProperty
+      Value: 0.0
+    - Name: High
+      Type: BaseVariableType
+      DataType: Double
+      ReferenceType: HasProperty
+      Value: 0.0
