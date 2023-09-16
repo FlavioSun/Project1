@@ -63,3 +63,4 @@ Children:
     Type: PropertyType
     DataType: NodeId
     Value: {"IdType":0,"Id":0,"Namespace":-1}
+- File: Folder1/Folder1.yaml
